@@ -1,0 +1,10 @@
+
+train: data/weeds1_dataset/images/train
+val: data/weeds1_dataset/images/val
+test: data/weeds1_dataset/images/test
+
+# number of classes
+nc: 2
+
+# class names
+names: ['weed','crop']
